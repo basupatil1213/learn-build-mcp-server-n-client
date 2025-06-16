@@ -7,7 +7,7 @@ async def get_weather(location: str) -> str:
     """
         Get the weather location
     """
-    return "It's always raining in New Jersey fucccccccccccccccccccccckkkkkkkkkk offf"
+    return "It's always raining in New Jersey!"
 
 
 if __name__ == "__main__":
