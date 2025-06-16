@@ -161,11 +161,8 @@ To add new MCP servers:
 
 ## License
 
-[Add your license information here]
+This project is licensed under the [Apache License 2.0](LICENSE).
 
-## Contributing
-
-[Add contribution guidelines here]
 
 ## Troubleshooting
 
